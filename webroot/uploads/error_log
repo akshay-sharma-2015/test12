@@ -1,0 +1,13 @@
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Division by zero in /home/casinolineup/public_html/webroot/uploads/image.php on line 190
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/casinolineup/public_html/webroot/uploads/image.php on line 249
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/casinolineup/public_html/webroot/uploads/image.php on line 308
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Division by zero in /home/casinolineup/public_html/webroot/uploads/image.php on line 371
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imageconvolution() expects parameter 1 to be resource, boolean given in /home/casinolineup/public_html/webroot/uploads/image.php on line 324
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/casinolineup/public_html/webroot/uploads/image.php on line 346
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/casinolineup/public_html/webroot/uploads/image.php on line 350
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/casinolineup/public_html/webroot/uploads/image.php on line 356
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  filemtime(): stat failed for /home/casinolineup/public_html/webroot/uploads/imagecache/c30f3745d49f80eb3867ced447db5393 in /home/casinolineup/public_html/webroot/uploads/image.php on line 359
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/casinolineup/public_html/webroot/uploads/image.php:190) in /home/casinolineup/public_html/webroot/uploads/image.php on line 383
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/casinolineup/public_html/webroot/uploads/image.php:190) in /home/casinolineup/public_html/webroot/uploads/image.php on line 384
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/casinolineup/public_html/webroot/uploads/image.php:190) in /home/casinolineup/public_html/webroot/uploads/image.php on line 365
+[18-Nov-2016 12:04:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/casinolineup/public_html/webroot/uploads/image.php:190) in /home/casinolineup/public_html/webroot/uploads/image.php on line 366

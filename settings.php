@@ -1,0 +1,25 @@
+<?php use Cake\Core\Configure; 
+$config["Site.title"] = "Cake CMS";
+$config["Site.copy_write"] = "  Copyright &copy; 2017. All rights reserved";
+$config["Site.email"] = "akshaya.sharma770@gmail.com";
+$config["Reading.record_per_page"] = "10";
+$config["Reading.record_select_box"] = "10,25,50,100,500";
+$config["Reading.date_format"] = "d/m/Y";
+$config["Email.Port"] = "465";
+$config["Email.timeout"] = "30";
+$config["Email.host"] = "ssl://searchtrials.com";
+$config["Email.username"] = "info@searchtrials.com";
+$config["Email.password"] = "info!@#$%^";
+$config["Email.client"] = "sg2plcpnl0075.prod.sin2.se";
+$config["Site.admin_id"] = "akshaya.sharma770@gmail.com";
+$config["Site.Contact_us"] = "   ";
+$config["Site.phone"] = "    ";
+$config["Reading.date_time_format"] = "M d,Y h:i a";
+$config["FollowUsOn.facebook"] = "https://www.facebook.com/casinolineup";
+$config["FollowUsOn.twitter"] = "https://www.twitter.com/casinolineup";
+$config["FollowUsOn.li"] = "https://plus.google.com/112777672265297740296";
+$config["Site.map"] = "    ";
+$config["Debug.for_ip"] = "1";
+$config["Debug.for_all"] = "1";
+$config["Debug.ip"] = "103.82.80.53";
+?>
